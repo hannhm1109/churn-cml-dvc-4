@@ -1,0 +1,12 @@
+LogisticRegression without-imbalance
+F1-score of Training is: 31.20 %
+F1-Score of Validation is: 37.57 %
+----------------------------------------
+LogisticRegression with-class-weights
+F1-score of Training is: 49.79 %
+F1-Score of Validation is: 49.87 %
+----------------------------------------
+LogisticRegression with-SMOTE
+F1-score of Training is: 63.02 %
+F1-Score of Validation is: 50.16 %
+----------------------------------------
